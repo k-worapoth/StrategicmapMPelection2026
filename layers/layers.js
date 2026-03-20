@@ -61,7 +61,7 @@ var lyr_CM1GYOR_3 = new ol.layer.Vector({
                 popuplayertitle: 'CM1GYOR',
                 interactive: true,
     title: 'CM1GYOR<br />\
-    <img src="styles/legend/CM1GYOR_3_0.png" /> 1<br />\
+    <img src="styles/legend/CM1GYOR_3_0.png" /> 1123574<br />\
     <img src="styles/legend/CM1GYOR_3_1.png" /> 2<br />\
     <img src="styles/legend/CM1GYOR_3_2.png" /> 3<br />\
     <img src="styles/legend/CM1GYOR_3_3.png" /> 4<br />' });
