@@ -22,7 +22,7 @@ var lyr_CM1GYOR_AREA_1 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_CM1GYOR_AREA_1, 
                 style: style_CM1GYOR_AREA_1,
-                popuplayertitle: 'ผลสีเขียวเหลืองส้มแดงตามพื้นที่',
+                popuplayertitle: 'diff area',
                 interactive: true,
     title: 'ผลสีเขียวเหลืองส้มแดงตามพื้นที่'<br />\
     <img src="styles/legend/CM1GYOR_AREA_1_0.png" /> 1<br />\
@@ -40,9 +40,9 @@ var lyr_GYOR_PARTYLIST_CM1_2026_2 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_GYOR_PARTYLIST_CM1_2026_2, 
                 style: style_GYOR_PARTYLIST_CM1_2026_2,
-                popuplayertitle: '%ผลต่างคะแนนพรรค',
+                popuplayertitle: 'party_diff',
                 interactive: true,
-    title: 'GYOR_PARTYLIST_CM1_2026<br />\
+    title: '%ผลต่างคะแนนพรรค'<br />\
     <img src="styles/legend/GYOR_PARTYLIST_CM1_2026_2_0.png" /> ผลต่างคะแนนพรรคมากกว่า 39.1% ของผู้มาใช้สิทธิ์<br />\
     <img src="styles/legend/GYOR_PARTYLIST_CM1_2026_2_1.png" /> ผลต่างคะแนนพรรค 25.56- 39.1%<br />\
     <img src="styles/legend/GYOR_PARTYLIST_CM1_2026_2_2.png" /> ผลต่างคะแนนพรรค 12.02-25.56% ของผู้มาใช้สิทธิ์<br />\
@@ -58,7 +58,7 @@ var lyr_CM1GYOR_3 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_CM1GYOR_3, 
                 style: style_CM1GYOR_3,
-                popuplayertitle: '%ผลต่างคะแนนผู้สมัคร',
+                popuplayertitle: 'diifperson',
                 interactive: true,
     title: '%ผลต่างผู้สมัคร<br />\
     <img src="styles/legend/CM1GYOR_3_0.png" /> ผลต่างคะแนนผู้สมัครมากกว่า 37.78% ของผู้มาใช้สิทธิ์<br />\
