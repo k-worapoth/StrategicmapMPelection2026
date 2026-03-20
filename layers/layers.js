@@ -60,7 +60,7 @@ var lyr_CM1GYOR_3 = new ol.layer.Vector({
                 style: style_CM1GYOR_3,
                 popuplayertitle: 'CM1GYOR',
                 interactive: true,
-    title: 'CM1GYOR<br />\
+    title: 'ผลต่างผู้สมัคร<br />\
     <img src="styles/legend/CM1GYOR_3_0.png" /> 1123574<br />\
     <img src="styles/legend/CM1GYOR_3_1.png" /> 2<br />\
     <img src="styles/legend/CM1GYOR_3_2.png" /> 3<br />\
